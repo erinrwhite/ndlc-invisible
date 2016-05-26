@@ -1,4 +1,4 @@
-# ndlc conference notes
+# [Making The Invisible Visible: Diversity, Dialogue And Multicultural Awareness Through Digital Projects](http://ndlc.info/program/sessions/Making-the-Invisible-Visible-Diversity,-Dialougue-and-Multicultural-Awareness-Through-Digital-Projects)
 
 ## freedom now
  - what we thought would happen vs. what happened 
