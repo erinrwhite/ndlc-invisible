@@ -11,17 +11,17 @@
 
 via AWC:
 
-    We began in the usual fashion: letters, email, social media, and all kinds of publicity. Getting the word out so folks would come via the internet and participate in our crowdsourcing project. We imagined long strings of comments identifying protesters.
+> We began in the usual fashion: letters, email, social media, and all kinds of publicity. Getting the word out so folks would come via the internet and participate in our crowdsourcing project. We imagined long strings of comments identifying protesters.
 
-    Then the phone calls started. And we realized that people were looking at the project, but not commenting. And this caused us to change our plans.
+> Then the phone calls started. And we realized that people were looking at the project, but not commenting. And this caused us to change our plans.
 
-    The primary goal of the project was to GET NAMES. To identify participants in these protests. The primary goal was not to do a digital crowdsourcing project.
+> The primary goal of the project was to GET NAMES. To identify participants in these protests. The primary goal was not to do a digital crowdsourcing project.
 
-    SO, we set up meetings at the library. We came in after hours to meet folks after they got off work. We went to people’s houses and sat down with our laptops, paper and pen. One VCU Libraries’ staff member arranged for her cousins to come stay at her house so we could interview them.
+> SO, we set up meetings at the library. We came in after hours to meet folks after they got off work. We went to people’s houses and sat down with our laptops, paper and pen. One VCU Libraries’ staff member arranged for her cousins to come stay at her house so we could interview them.
 
-    We went to Farmville and the Moton Museum to meet people (no internet access, so took sample pix on an iPad). We created a scrapbook that would travel to choir practice at a Prince Edward County church.  We drove to Farmville a second time and took the scrapbook to someone who would carry it to an NAACP anniversary event.
+> We went to Farmville and the Moton Museum to meet people (no internet access, so took sample pix on an iPad). We created a scrapbook that would travel to choir practice at a Prince Edward County church.  We drove to Farmville a second time and took the scrapbook to someone who would carry it to an NAACP anniversary event.
 
-    In the end it was the personal connections that made the difference. This was not a program that would succeed without library personnel sitting down and getting to know people. Building trust. Being grateful. Letting them be in the spotlight, not us.
+> In the end it was the personal connections that made the difference. This was not a program that would succeed without library personnel sitting down and getting to know people. Building trust. Being grateful. Letting them be in the spotlight, not us.
 
 ### links
 
