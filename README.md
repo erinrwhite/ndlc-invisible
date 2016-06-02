@@ -1,6 +1,42 @@
 # [Making The Invisible Visible: Diversity, Dialogue And Multicultural Awareness Through Digital Projects](http://ndlc.info/program/sessions/Making-the-Invisible-Visible-Diversity,-Dialougue-and-Multicultural-Awareness-Through-Digital-Projects)
 
-## freedom now
+**Original pitch, Basic gist of session:** we’re giving a rundown of Freedom Now and Klan map. We’ll talk about how they came about, but more importantly how we got them out to the public: 
+
+ - what our goals were for developing these projects: spreading message of inclusion
+ - who we targeted and why as we developed the site; 
+considerations for design and language; 
+ - who we talked to during and after the project was complete; 
+ - how we introduced the projects to the world; 
+ - how we engaged in dialogue around the project; 
+ - how we worked with the press; 
+ - how the projects transformed after we released them; and 
+ - how we triaged feedback and used it to improve the projects after release
+
+**Combined pitch:** Librarians from the Virginia Commonwealth Libraries, United States and York University/Osgoode Hall Law School Libraries, Canada have developed digital projects to build awareness about racial discrimination, religious persecution and multicultural communities. This combined presentation discusses the unique ways digital projects help us expand the library/librarians' role in stimulating widespread, meaningful dialogue, historical awareness, and preservation and promotion of indigenous knowledge to diverse audiences.
+
+## freedom now project
+
+First, a little historical context. 
+
+In 1954, the Supreme Court of the United States issued its landmark [Brown vs. Board of Education](https://en.wikipedia.org/wiki/Brown_v._Board_of_Education) decision, which declared that separate facilities for black and white students were inherently unequal. The court ordered the states to desegregate their schools "with all deliberate speed."
+
+In early 1956, Virginia state senator Harry F. Byrd vowed to unite a network of white politicians in Virginia to prevent public school desegregation, in a widespread, far-reaching campaign called Massive Resistance.
+
+In 1959, as part of the ongoing Massive Resistance campaign, Prince Edward County, Va. closed its public schools to all students rather than desegregate them. Private "segregation academies" that only enrolled white students sprung up to replace the public schools. Black students had few options but to leave or to attend volunteer-run Free Schools.
+
+By 1963, four years after schools had closed, the African-American community in Farmville had waited long enough. It was time for a Program of Action: a series of protests and organized boycotts of businesses in downtown Farmville.
+
+VCU Libraries' Freedom Now Project is a digital collection of photos from Farmville civil rights protests in the summer of 1963. 
+
+The photographs were taken for and by the Farmville police department as part of surveillance efforts, and as such, demonstrators are often seen reacting to the camera and the photographer, revealing some of the emotional and psychological tension present during this period of non-violent civil dissent. 
+
+These images are evocative and raw. And when we were given these photos, we wanted to find out who these brave protesters were so that their work could be honored. Thus, the Freedom Now project was born. 
+
+
+
+
+> 
+
  - what we thought would happen vs. what happened 
  - how we adapted - phone, home visits, paper scrapbook
  - in the end, personal connections made the difference
@@ -25,9 +61,11 @@ via AWC:
 
 ### links
 
- - http://go.vcu.edu/freedomnow
- - http://news.vcu.edu/article/Public_identifies_60_people_in_VCU_Libraries_exhibit_of_Virginia
- - http://ideastations.org/radio/news/freedom-now-project-locates-survivors-prince-edward-school-shutdown
+ - [VCU Libraries' Freedom Now Project](http://go.vcu.edu/freedomnow)
+ - [Press - VCU News: Public Identifies 60 People in VCU Libraries Exhibit](http://news.vcu.edu/article/Public_identifies_60_people_in_VCU_Libraries_exhibit_of_Virginia)
+ - [Press - WVTF: Freedom Now Project Locates Survivors of Prince Edward School Shutdown](http://ideastations.org/radio/news/freedom-now-project-locates-survivors-prince-edward-school-shutdown)
+ - [Wikipedia: Massive Resistance](https://en.wikipedia.org/wiki/Massive_resistance)
+ - [Wikipedia: Brown vs. BOE](https://en.wikipedia.org/wiki/Brown_v._Board_of_Education)
 
 ### why was this project unique?
 
