@@ -12,7 +12,7 @@ considerations for design and language;
  - how the projects transformed after we released them; and 
  - how we triaged feedback and used it to improve the projects after release
 
-**Combined pitch:** Librarians from the Virginia Commonwealth Libraries, United States and York University/Osgoode Hall Law School Libraries, Canada have developed digital projects to build awareness about racial discrimination, religious persecution and multicultural communities. This combined presentation discusses the unique ways digital projects help us expand the library/librarians' role in stimulating widespread, meaningful dialogue, historical awareness, and preservation and promotion of indigenous knowledge to diverse audiences.
+**Final abstract:** Librarians from the Virginia Commonwealth Libraries, United States and York University/Osgoode Hall Law School Libraries, Canada have developed digital projects to build awareness about racial discrimination, religious persecution and multicultural communities. This combined presentation discusses the unique ways digital projects help us expand the library/librarians' role in stimulating widespread, meaningful dialogue, historical awareness, and preservation and promotion of indigenous knowledge to diverse audiences.
 
 ## freedom now project
 
@@ -32,40 +32,35 @@ These images are evocative and raw. And when we were given these photos, we want
 
 ### digital and analog, coming together
 
-Goal of the project: digital crowdsourcing Identifying people
-Technical part: easy. Non-technical part: very difficult
-Our assumptions vs. what actually happened
+The technology component of this project was perhaps the easiest. Once our scanning unit processed the 500 or so photographs, we assigned some minimal metadata (which still required significant sleuthing on our metadata librarian's part). The images were then loaded into ContentDM, our local digital collections repository. This photo collection went live sometime in 2012, with the idea that we'd launch a future crowdsourcing campaign to name the unknown protesters.
 
+By 2013 we'd taken on a project manager for this initiative (Alice Campbell, co-author of this presentation in absentia). Alice gave the project its name - Freedom Now - and set about culling the best photos for a Flickr photoset. 
 
-We began in the usual fashion: letters, email, social media, and all kinds of publicity. Getting the word out so folks would come via the internet and participate in our crowdsourcing project. We imagined long strings of comments identifying protesters.
+So, we spun up a Flickr account, created a web page with information about the project, and set our PR machine on high, reaching out to various media outlets and social media contacts. Our idea was to drive traffic to Flickr and encourage people to comment on the photos if they had information on who was in the photos or where they were taken. We imagined long strings of comments identifying protesters.
 
-> Then the phone calls started. And we realized that people were looking at the project, but not commenting. And this caused us to change our plans.
+Then, after a local TV news program picked up the story, the phone calls started. And we realized that the people we wanted to hear from were looking at the project, but not commenting. These people were by now in their 60s, 70s, and 80s, and had no interest in creating a Flickr account just to comment (even though we included explicit instructions on how!) In hindsight, this makes a great deal of sense.
 
-> The primary goal of the project was to GET NAMES. To identify participants in these protests. The primary goal was not to do a digital crowdsourcing project.
-> 
+So, we changed our plans. The primary goal of the project was not to "do a digital crowdsourcing proejct" - the purpose was to get names, to identify participants in these protests. It was crowdsourcing the original way.
 
 ### pivoting midway
 
-Personal connections - not ours but the community’s
-Trust-building, relationship-building, being grateful, shining the spotlight
-This started as a digital project but grew into something larger.
+So, Alice pivoted and took a different angle. She set up meetings at the library. She came in after hours to meet folks after they got off work. She went to people’s houses and sat down with a laptop, paper and pen. One VCU Libraries’ staff member arranged for her cousins to come stay at her house so they could be interviewed.
 
+Alice went in person to Farmville and the local Moton Museum to meet people - with no internet access, she simply brought sample photos on an iPad. With printouts of those photos, Alice created a scrapbook that would travel to choir practice at a Prince Edward County church. Later she drove to Farmville a second time and took the scrapbook to someone who would carry it to an NAACP anniversary event.
 
-> SO, we set up meetings at the library. We came in after hours to meet folks after they got off work. We went to people’s houses and sat down with our laptops, paper and pen. One VCU Libraries’ staff member arranged for her cousins to come stay at her house so we could interview them.
+The project began as a digital-only project, which gave it the legs it needed to reach a wider audience. But in the end it was Alice's outreach and growing network of personal connections that made the difference. This was not a program that would succeed without library personnel sitting down and getting to know people. Building trust. Being grateful. Letting them be in the spotlight, not us. 
 
-> We went to Farmville and the Moton Museum to meet people (no internet access, so took sample pix on an iPad). We created a scrapbook that would travel to choir practice at a Prince Edward County church.  We drove to Farmville a second time and took the scrapbook to someone who would carry it to an NAACP anniversary event.
-
-> In the end it was the personal connections that made the difference. This was not a program that would succeed without library personnel sitting down and getting to know people. Building trust. Being grateful. Letting them be in the spotlight, not us.
-
+This started as just a digital project, but became a rallying point for a small community in Virginia. 
 
 ### project outcomes
 
-Images for the world
-Stories for the Farmville community
-80+ people identified
-Stories unearthed
-Learning for us and deeper connection with library mission
+So, we are still understanding the outcomes of this project. The images are all online for the world to see, to help gain a better understanding of the civil rights movement in America, in Virginia, and in Prince Edward County. These images join many other collections of images taken during this volatile time in American history. We are proud to be able to share this collection. Most recently, a photo from this collection hung in the Supreme Court of Virginia as part of a spring 2016 exhibit.
 
+The effect in Farmville is a community that has another part of its story. Several works - memoirs, history books, journal articles - have told the Farmville story. This is yet another view and a primary source for community members and scholars.
+
+All told, our personal connections in Farmville identified at least 80 people in these photographs. Some people are still with us, while others have passed away. Some of the people were relatives of VCU Libraries employees. Some were students from New York that we identified from SUNY Library's web project on this topic. 
+
+Stories were unearthed. And, we learned about our community, tried to surface their stories, and helped piece together a 50-year-old story. The connections we made and lessons learned from putting this project together are invaluable. They also connect deeply with the community-engaged mission of the University and the library.
 
 ### links
 
@@ -74,16 +69,6 @@ Learning for us and deeper connection with library mission
  - [Press - WVTF: Freedom Now Project Locates Survivors of Prince Edward School Shutdown](http://ideastations.org/radio/news/freedom-now-project-locates-survivors-prince-edward-school-shutdown)
  - [Wikipedia: Massive Resistance](https://en.wikipedia.org/wiki/Massive_resistance)
  - [Wikipedia: Brown vs. BOE](https://en.wikipedia.org/wiki/Brown_v._Board_of_Education)
-
-### why was this project unique?
-
- - SCALE
- - SPEED
- - our ability to connect with a great number of people through THEIR connections, not our own. 
- - the fact that it started digital made it faster
- - longevity - supreme court used photo in exhibit in spring 2016. If it were physical exhibit only, it wouldn't have had a continued life.
- - ability to go back and forth between digital and physical
- - ability to link out to other institutions 
 
 ## mapping the second ku klux klan, 1915-1940
 
