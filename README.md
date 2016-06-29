@@ -1,20 +1,8 @@
 # [Making The Invisible Visible: Diversity, Dialogue And Multicultural Awareness Through Digital Projects](http://ndlc.info/program/sessions/Making-the-Invisible-Visible-Diversity,-Dialougue-and-Multicultural-Awareness-Through-Digital-Projects)
 
-**Original pitch, Basic gist of session:** we’re giving a rundown of Freedom Now and Klan map. We’ll talk about how they came about, but more importantly how we got them out to the public: 
+**Abstract:** Librarians from the Virginia Commonwealth Libraries, United States and York University/Osgoode Hall Law School Libraries, Canada have developed digital projects to build awareness about racial discrimination, religious persecution and multicultural communities. This combined presentation discusses the unique ways digital projects help us expand the library/librarians' role in stimulating widespread, meaningful dialogue, historical awareness, and preservation and promotion of indigenous knowledge to diverse audiences.
 
- - what our goals were for developing these projects: spreading message of inclusion
- - who we targeted and why as we developed the site; 
-considerations for design and language; 
- - who we talked to during and after the project was complete; 
- - how we introduced the projects to the world; 
- - how we engaged in dialogue around the project; 
- - how we worked with the press; 
- - how the projects transformed after we released them; and 
- - how we triaged feedback and used it to improve the projects after release
-
-**Final abstract:** Librarians from the Virginia Commonwealth Libraries, United States and York University/Osgoode Hall Law School Libraries, Canada have developed digital projects to build awareness about racial discrimination, religious persecution and multicultural communities. This combined presentation discusses the unique ways digital projects help us expand the library/librarians' role in stimulating widespread, meaningful dialogue, historical awareness, and preservation and promotion of indigenous knowledge to diverse audiences.
-
-## freedom now project
+## [Freedom Now Project](http://go.vcu.edu/freedomnow)
 
 In 1954, the Supreme Court of the United States issued its landmark [Brown vs. Board of Education](https://en.wikipedia.org/wiki/Brown_v._Board_of_Education) decision, which declared that separate facilities for black and white students were inherently unequal. The court ordered the states to desegregate their schools "with all deliberate speed."
 
@@ -70,11 +58,11 @@ Stories were unearthed. And, we learned about our community, tried to surface th
  - [Wikipedia: Massive Resistance](https://en.wikipedia.org/wiki/Massive_resistance)
  - [Wikipedia: Brown vs. BOE](https://en.wikipedia.org/wiki/Brown_v._Board_of_Education)
 
-## mapping the second ku klux klan, 1915-1940
+## [Mapping the Second Ku Klux Klan, 1915-1940](http://go.vcu.edu/mappingtheklan)
 
 In late 2014, a VCU history professor emailed us a 50-page word document listing all the known Ku Klux Klan chapters that were formed across the United States between the two world wars, 1915 or so to 1940. This document was the culmination of 30 years of research in dark archives and Klan newspapers. "Can you do anything with this?" our professor asked. We jumped at the opportunity.
 
-Over the next year, the library's web team worked closely with our faculty expert, normalizing the data to populate a geographic timeline of the Klan's spread, giving us deeper insight into this research and also into American culture in the first half of the 20th century. The first Klan of Reconstruction and the third Klan of the Civil Rights era were both concentrated in the Deep South, but the second Klan spread across the United States. That tells us that parts of the Klan’s appeal — not just racism, but also anti-Semitism and anti-Catholicism — were widespread as "American values."
+Over the next year, the library's web team (primarily our web developer, Shariq Torres) worked closely with our faculty expert, normalizing the data to populate a geographic timeline of the Klan's spread, giving us deeper insight into this research and also into American culture in the first half of the 20th century. The first Klan of Reconstruction and the third Klan of the Civil Rights era were both concentrated in the Deep South, but the second Klan spread across the United States. That tells us that parts of the Klan’s appeal — not just racism, but also anti-Semitism and anti-Catholicism — were widespread as "American values."
 
 What we ended up with - and what we knew could gain widespread attention - was a highly visual, provocative interactive map.
 
@@ -82,7 +70,7 @@ What we ended up with - and what we knew could gain widespread attention - was a
 
 We took this project on in the midst of, and in conversation with, the larger social and cultural context in America, in the South, in Richmond and at VCU. 
  - When we began working on the project in January 2015, the #blacklivesmatter movement was gaining momentum across the U.S. following the police shooting of Michael Brown. 
- - In June as the project truly began to take form, Dylann Roof shot nine black people in their church in Charleston, South Carolina. 
+ - In June, while the project truly began to take form, nine black people were murdered in their church in Charleston, South Carolina. 
  - In the fall, as we planned the launch for the site, cities across the South, including Richmond, were reckoning with the lingering remnants of the confederacy. 
  - And a week before we planned to launch the site, black VCU students staged a sit-in at the University President's office, demanding a better living and learning environment, and spurring two forums on inclusion and racial diversity at VCU.
 
