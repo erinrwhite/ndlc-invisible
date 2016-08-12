@@ -1,8 +1,12 @@
 # [Making The Invisible Visible: Diversity, Dialogue And Multicultural Awareness Through Digital Projects](http://ndlc.info/program/sessions/Making-the-Invisible-Visible-Diversity,-Dialougue-and-Multicultural-Awareness-Through-Digital-Projects)
 
+**This is only a portion of the presentation. [Full presentation slides](https://docs.google.com/file/d/0B63MdXztrd8jcXZzZFVlNjVQSHc/edit?usp=docslist_api&filetype=mspresentation)**
+
 **Abstract:** Librarians from the Virginia Commonwealth Libraries, United States and York University/Osgoode Hall Law School Libraries, Canada have developed digital projects to build awareness about racial discrimination, religious persecution and multicultural communities. This combined presentation discusses the unique ways digital projects help us expand the library/librarians' role in stimulating widespread, meaningful dialogue, historical awareness, and preservation and promotion of indigenous knowledge to diverse audiences.
 
 ## [Freedom Now Project](http://go.vcu.edu/freedomnow)
+
+**Portions of this from [Alice Campbell](https://twitter.com/rovinglibrarian), VCU Digital Initiatives Librarian**
 
 In 1954, the Supreme Court of the United States issued its landmark [Brown vs. Board of Education](https://en.wikipedia.org/wiki/Brown_v._Board_of_Education) decision, which declared that separate facilities for black and white students were inherently unequal. The court ordered the states to desegregate their schools "with all deliberate speed."
 
