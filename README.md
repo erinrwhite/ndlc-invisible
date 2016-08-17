@@ -99,3 +99,19 @@ Knowing that no software or digital project is neutral, we consciously designed 
 ### how it went
 
 The response to the project after we launched was overwhelming. We not only were VCU's most popular tweet of the year; our project also made the front page of the Richmond Times-Dispatch, got attention on Virginia public radio, and netted us news coverage from across the U.S. We heard from researchers all over, from a full professor in Germany to a curious teenager in Palo Alto. It's clear that the site resonated with many people. And it's still out there, getting us the occasional tweetstorm or news article.
+
+# unifying theme 1
+
+In taking a 30,000 foot view we wanted to look at some themes that united these projects. For us a theme that really resonated was that the technical part of our projects was often easiest. The non-technical parts - strategic, sociocultural and legal issues that we had to consider as well, we might have spent more time on!
+
+Strategically all of us operated under some unspoken assumptions that digital projects will inevitably be more discoverable. When put on the web, these projects reach a wider audience and are potentially subject to wider scrutiny as well! Our efforts were to both educate visitors on these diverse topics and also honor the subjects of our projects and amplify their voices. This is a delicate balance and one that is amplified by virtue of being online for the world to see.
+
+Whether we enunciated it or not, our projects also sought to fill gaps in current library initiatives (not just our own but others'). 
+
+And, each project had goals in itself, whether we stated it or not. These goals drove our processes. AND, because no digital project on earth is neutral, these goals too were strategic and opinionated. And that is okay.
+
+Looking at cultural factors, there is a clear connecting thread of amplifying the voices of racial and ethnic minorities and illuminating white supremacy. These projects document artifacts of social movements that inform the larger picture of discussions about racism in the world. This also affected who and how we reached out to audiences, and the timing for our projects. We could not ignore current events and the cultural context especially in America as the Black Lives Matter movement gained widespread attention.
+
+We also needed to pay close attention to the legal aspects of our projects. The Customary Law project dealt with issues of international public policy. And for the Freedom now collection, for example, ownership and copyright issues for the photos needed to be ironed out.
+
+So, a lot of things outside of technology to consider when working on a digital project.
