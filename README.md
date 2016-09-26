@@ -66,7 +66,7 @@ We are still understanding the outcomes of this project.
 
 ## [Mapping the Second Ku Klux Klan, 1915-1940](http://go.vcu.edu/mappingtheklan)
 
-In late 2014, a VCU history professor emailed us a 50-page word document listing all the known Ku Klux Klan chapters that were formed across the United States between the two world wars, 1915 or so to 1940. This document was the culmination of 30 years of research in dark archives and Klan newspapers. "Can you do anything with this?" our professor asked. We jumped at the opportunity.
+In late 2014, VCU history professor Dr. John Kneebone emailed us a 50-page word document listing all the known Ku Klux Klan chapters that were formed across the United States between the two world wars, 1915 or so to 1940. This document was the culmination of 30 years of his research in dark archives and Klan newspapers. "Can you do anything with this?" Dr. Kneebone asked. We jumped at the opportunity.
 
 Over the next year, the library's web team (primarily our web developer, Shariq Torres) worked closely with our faculty expert, normalizing the data to populate a geographic timeline of the Klan's spread, giving us deeper insight into this research and also into American culture in the first half of the 20th century. The first Klan of Reconstruction and the third Klan of the Civil Rights era were both concentrated in the Deep South, but the second Klan spread across the United States. That tells us that parts of the Klan’s appeal — not just racism, but also anti-Semitism and anti-Catholicism — were widespread as "American values."
 
